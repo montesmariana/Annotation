@@ -1,0 +1,46 @@
+{
+    "dip": [
+        {
+            "code": "dip-sense1",
+            "label": "dipsaus"
+        },
+        {
+            "code": "dip-sense2",
+            "label": "toestand van tijdelijke, lichamelijke of geestelijke verslapping"
+        },
+        {
+            "code": "dip-sense3",
+            "label": "vermindering van bloei, productie, intensiteit enz."
+        },
+        {
+            "code": "dip-sense5",
+            "label": "overige"
+        }
+    ],
+    "inzinking": [
+        {
+            "code": "inzinking-sense1",
+            "label": "het inzinken"
+        },
+        {
+            "code": "inzinking-sense2",
+            "label": "plaats waar iets lager is dan het omliggende"
+        },
+        {
+            "code": "inzinking-sense3",
+            "label": "toestand van tijdelijke, lichamelijke of geestelijke verslapping"
+        },
+        {
+            "code": "inzinking-sense4",
+            "label": "vermindering van bloei, productie, intensiteit enz."
+        },
+        {
+            "code": "inzinking-sense5",
+            "label": "het in-elkaar-voegen van constructiedelen door een keep of sponning"
+        },
+        {
+            "code": "inzinking-sense6",
+            "label": "overige"
+        }
+    ]
+}
