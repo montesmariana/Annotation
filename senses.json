@@ -4,91 +4,1336 @@
         "confidence"
     ],
     "values": {
-        "aflossing": [
+        "authorisation": [
             {
-                "code": "aflossing-sense1",
-                "label": "het aflossen: in zijn taak of werkzaamheid vervangen of door anderen doen vervangen"
+                "code": "authorisation-sense1",
+                "label": "the act of authorizing. "
             },
             {
-                "code": "aflossing-sense2",
-                "label": "de personen die aflossen, de aflossende manschappen"
+                "code": "authorisation-sense2",
+                "label": "[count noun] a document giving official permission"
             },
             {
-                "code": "aflossing-sense3",
-                "label": "het inlossen van een schuld, het terugbetalen van geleend geld"
-            },
-            {
-                "code": "aflossing-sense4",
-                "label": "termijn waarin een schuld afgelost wordt"
-            },
-            {
-                "code": "aflossing-sense5",
-                "label": "aflossingsbedrag: bedrag waarmee een schuld in termijnen wordt afgelost"
-            },
-            {
-                "code": "aflossing-sense6",
-                "label": "estafette: snelheidswedstrijd tussen verschillende teams"
-            },
-            {
-                "code": "aflossing-sense7",
+                "code": "authorisation-sense3",
                 "label": "overige"
             }
         ],
-        "afbetaling": [
+        "authorization": [
             {
-                "code": "afbetaling-sense1",
-                "label": "volledige betaling"
+                "code": "authorization-sense1",
+                "label": "the act of authorizing. "
             },
             {
-                "code": "afbetaling-sense2",
-                "label": "betaling in mindering op een schuld of rekening"
+                "code": "authorization-sense2",
+                "label": "[count noun] a document giving official permission"
             },
             {
-                "code": "afbetaling-sense3",
+                "code": "authorization-sense3",
                 "label": "overige"
             }
         ],
-        "dip": [
+        "bath": [
             {
-                "code": "dip-sense1",
-                "label": "dipsaus"
+                "code": "bath-sense1",
+                "label": "A large container for water, used for immersing and washing the body."
             },
             {
-                "code": "dip-sense2",
-                "label": "toestand van tijdelijke, lichamelijke of geestelijke verslapping"
+                "code": "bath-sense2",
+                "label": "An act or process of immersing and washing one's body in the water held by a bath."
             },
             {
-                "code": "dip-sense3",
-                "label": "vermindering van bloei, productie, intensiteit enz."
+                "code": "bath-sense3",
+                "label": "(usually baths) A building containing a public swimming pool or washing facilities."
             },
             {
-                "code": "dip-sense5",
+                "code": "bath-sense4",
+                "label": "A bathroom."
+            },
+            {
+                "code": "bath-sense5",
+                "label": "[with modifier] A container holding a liquid in which something is immersed, typically when undergoing a process such as film developing."
+            },
+            {
+                "code": "bath-sense6",
+                "label": "[with modifier] A container holding a liquid in which something is immersed, typically when undergoing a process such as film developing."
+            },
+            {
+                "code": "bath-sense7",
                 "label": "overige"
             }
         ],
-        "inzinking": [
+        "bathroom": [
             {
-                "code": "inzinking-sense1",
-                "label": "het inzinken"
+                "code": "bathroom-sense1",
+                "label": "A room containing a bath or shower and typically also a washbasin and a toilet."
             },
             {
-                "code": "inzinking-sense2",
-                "label": "plaats waar iets lager is dan het omliggende"
+                "code": "bathroom-sense2",
+                "label": "A set of matching units to be fitted in a bathroom, especially as sold together."
             },
             {
-                "code": "inzinking-sense3",
-                "label": "toestand van tijdelijke, lichamelijke of geestelijke verslapping"
+                "code": "bathroom-sense3",
+                "label": "A room containing a toilet and washbasin and typically also a bath or shower."
             },
             {
-                "code": "inzinking-sense4",
-                "label": "vermindering van bloei, productie, intensiteit enz."
+                "code": "bathroom-sense4",
+                "label": "overige"
+            }
+        ],
+        "ban": [
+            {
+                "code": "ban-sense1",
+                "label": "An official or legal prohibition."
             },
             {
-                "code": "inzinking-sense5",
-                "label": "het in-elkaar-voegen van constructiedelen door een keep of sponning"
+                "code": "ban-sense2",
+                "label": "An official exclusion of a person from an organization, country, or activity."
             },
             {
-                "code": "inzinking-sense6",
+                "code": "ban-sense3",
+                "label": "[historical] A sentence of outlawry."
+            },
+            {
+                "code": "ban-sense4",
+                "label": "[archaic] A curse."
+            },
+            {
+                "code": "ban-sense5",
+                "label": "overige"
+            }
+        ],
+        "banning": [
+            {
+                "code": "banning-sense1",
+                "label": "An official or legal prohibition."
+            },
+            {
+                "code": "banning-sense2",
+                "label": "An official exclusion of a person from an organization, country, or activity."
+            },
+            {
+                "code": "banning-sense3",
+                "label": "[historical] A sentence of outlawry."
+            },
+            {
+                "code": "banning-sense4",
+                "label": "[archaic] A curse."
+            },
+            {
+                "code": "banning-sense5",
+                "label": "overige"
+            }
+        ],
+        "firefighter": [
+            {
+                "code": "firefighter-sense1",
+                "label": "A person whose job is to extinguish fires."
+            },
+            {
+                "code": "firefighter-sense2",
+                "label": "overige"
+            }
+        ],
+        "fireman": [
+            {
+                "code": "fireman-sense1",
+                "label": "A male firefighter."
+            },
+            {
+                "code": "fireman-sense2",
+                "label": "A person who tends a furnace or the fire of a steam engine or steamship."
+            },
+            {
+                "code": "fireman-sense3",
+                "label": "overige"
+            }
+        ],
+        "bun": [
+            {
+                "code": "bun-sense1",
+                "label": "A small cake, typically containing dried fruit."
+            },
+            {
+                "code": "bun-sense2",
+                "label": "A bread roll."
+            },
+            {
+                "code": "bun-sense3",
+                "label": "(in Scotland and Jamaica) a rich fruit cake or currant bread."
+            },
+            {
+                "code": "bun-sense4",
+                "label": "A hairstyle in which the hair is drawn back into a tight coil at the back of the head."
+            },
+            {
+                "code": "bun-sense5",
+                "label": "(buns) (informal) A person's buttocks."
+            },
+            {
+                "code": "bun-sense6",
+                "label": "overige"
+            }
+        ],
+        "roll": [
+            {
+                "code": "roll-sense1",
+                "label": "A cylinder formed by winding flexible material round a tube or by turning it over and over on itself without folding."
+            },
+            {
+                "code": "roll-sense2",
+                "label": "A movement in which someone or something turns or is turned over on itself."
+            },
+            {
+                "code": "roll-sense3",
+                "label": "A prolonged, deep, reverberating sound."
+            },
+            {
+                "code": "roll-sense4",
+                "label": "A very small loaf of bread, to be eaten by one person."
+            },
+            {
+                "code": "roll-sense5",
+                "label": "An official list or register of names."
+            },
+            {
+                "code": "roll-sense6",
+                "label": "[mass noun] Undulation of the landscape."
+            },
+            {
+                "code": "roll-sense7",
+                "label": "A roller for flattening something, especially one used to shape metal in a rolling mill."
+            },
+            {
+                "code": "roll-sense8",
+                "label": "overige"
+            }
+        ],
+        "drink": [
+            {
+                "code": "drink-sense1",
+                "label": "A liquid that can be swallowed as refreshment or nourishment."
+            },
+            {
+                "code": "drink-sense2",
+                "label": "A quantity of liquid swallowed at one go."
+            },
+            {
+                "code": "drink-sense3",
+                "label": "[mass noun] Alcohol, or the habitual or excessive consumption of alcohol."
+            },
+            {
+                "code": "drink-sense4",
+                "label": "A glass of liquid, especially when alcoholic."
+            },
+            {
+                "code": "drink-sense5",
+                "label": "(drinks) A social gathering at which alcoholic drinks are served."
+            },
+            {
+                "code": "drink-sense6",
+                "label": "(the drink) (informal) The sea or another large area of water."
+            },
+            {
+                "code": "drink-sense7",
+                "label": "overige"
+            }
+        ],
+        "beverage": [
+            {
+                "code": "beverage-sense1",
+                "label": "(chiefly in commercial use) a drink other than water."
+            },
+            {
+                "code": "beverage-sense2",
+                "label": "overige"
+            }
+        ],
+        "irritation": [
+            {
+                "code": "irritation-sense1",
+                "label": "The state of feeling annoyed, impatient, or slightly angry."
+            },
+            {
+                "code": "irritation-sense2",
+                "label": "[count noun] A thing that annoys or irritates someone."
+            },
+            {
+                "code": "irritation-sense3",
+                "label": "Inflammation or other discomfort in a body part caused by reaction to an irritant substance."
+            },
+            {
+                "code": "irritation-sense4",
+                "label": "(Biology) The stimulation of an organism, cell, or organ to produce an active response."
+            },
+            {
+                "code": "irritation-sense5",
+                "label": "overige"
+            }
+        ],
+        "discomfort": [
+            {
+                "code": "discomfort-sense1",
+                "label": "Slight pain."
+            },
+            {
+                "code": "discomfort-sense2",
+                "label": "A state of unease, worry, or embarrassment."
+            },
+            {
+                "code": "discomfort-sense3",
+                "label": "[count noun] Something that makes a person feel physically uncomfortable."
+            },
+            {
+                "code": "discomfort-sense4",
+                "label": "overige"
+            }
+        ],
+        "acknowledgement": [
+            {
+                "code": "acknowledgement-sense1",
+                "label": "Acceptance of the truth or existence of something."
+            },
+            {
+                "code": "acknowledgement-sense2",
+                "label": "Recognition of the importance or quality of something."
+            },
+            {
+                "code": "acknowledgement-sense3",
+                "label": "The expression of gratitude or appreciation for something."
+            },
+            {
+                "code": "acknowledgement-sense4",
+                "label": "The action of showing that one has noticed someone or something."
+            },
+            {
+                "code": "acknowledgement-sense5",
+                "label": "[count noun] A letter confirming receipt of something."
+            },
+            {
+                "code": "acknowledgement-sense6",
+                "label": "(acknowledgements) A statement printed at the beginning of a book expressing the author's"
+            },
+            {
+                "code": "acknowledgement-sense7",
+                "label": "overige"
+            }
+        ],
+        "acknowledgment": [
+            {
+                "code": "acknowledgment-sense1",
+                "label": "Acceptance of the truth or existence of something."
+            },
+            {
+                "code": "acknowledgment-sense2",
+                "label": "Recognition of the importance or quality of something."
+            },
+            {
+                "code": "acknowledgment-sense3",
+                "label": "The expression of gratitude or appreciation for something."
+            },
+            {
+                "code": "acknowledgment-sense4",
+                "label": "The action of showing that one has noticed someone or something."
+            },
+            {
+                "code": "acknowledgment-sense5",
+                "label": "[count noun] A letter confirming receipt of something."
+            },
+            {
+                "code": "acknowledgment-sense6",
+                "label": "(acknowledgments) A statement printed at the beginning of a book expressing the author's"
+            },
+            {
+                "code": "acknowledgment-sense7",
+                "label": "overige"
+            }
+        ],
+        "bike": [
+            {
+                "code": "bike-sense1",
+                "label": "A bicycle or motorcycle."
+            },
+            {
+                "code": "bike-sense2",
+                "label": "overige"
+            }
+        ],
+        "bicycle": [
+            {
+                "code": "bicycle-sense1",
+                "label": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+            },
+            {
+                "code": "bicycle-sense2",
+                "label": "overige"
+            }
+        ],
+        "photograph": [
+            {
+                "code": "photograph-sense1",
+                "label": "A picture made using a camera, in which an image is focused on to light-sensitive material and then made visible and permanent by chemical treatment, or stored digitally."
+            },
+            {
+                "code": "photograph-sense2",
+                "label": "overige"
+            }
+        ],
+        "photo": [
+            {
+                "code": "photo-sense1",
+                "label": "A photograph."
+            },
+            {
+                "code": "photo-sense2",
+                "label": "(informal) A photo finish."
+            },
+            {
+                "code": "photo-sense3",
+                "label": "overige"
+            }
+        ],
+        "equalisation": [
+            {
+                "code": "equalisation-sense1",
+                "label": "[mass noun] The action or process of making things the same in quantity, size, or degree throughout a place or group."
+            },
+            {
+                "code": "equalisation-sense2",
+                "label": "overige"
+            }
+        ],
+        "equalization": [
+            {
+                "code": "equalization-sense1",
+                "label": "[mass noun] The action or process of making things the same in quantity, size, or degree throughout a place or group."
+            },
+            {
+                "code": "equalization-sense2",
+                "label": "overige"
+            }
+        ],
+        "granddad": [
+            {
+                "code": "granddad-sense1",
+                "label": "(informal) One's grandfather."
+            },
+            {
+                "code": "granddad-sense2",
+                "label": "Used as a form of address to an elderly man."
+            },
+            {
+                "code": "granddad-sense3",
+                "label": "(as modifier) Denoting a style of shirt or shirt neckline with a collar in the form of a narrow upright band fastened with buttons."
+            },
+            {
+                "code": "granddad-sense4",
+                "label": "overige"
+            }
+        ],
+        "grandad": [
+            {
+                "code": "grandad-sense1",
+                "label": "(informal) One's grandfather."
+            },
+            {
+                "code": "grandad-sense2",
+                "label": "Used as a form of address to an elderly man."
+            },
+            {
+                "code": "grandad-sense3",
+                "label": "(as modifier) Denoting a style of shirt or shirt neckline with a collar in the form of a narrow upright band fastened with buttons."
+            },
+            {
+                "code": "grandad-sense4",
+                "label": "overige"
+            }
+        ],
+        "guidebook": [
+            {
+                "code": "guidebook-sense1",
+                "label": "A book of information about a place, designed for the use of visitors or tourists."
+            },
+            {
+                "code": "guidebook-sense2",
+                "label": "overige"
+            }
+       ],
+        "guide":[
+            {
+                "code": "guide-sense1",
+                "label": "A person who shows the way to others, especially one employed to show tourists around places of interest."
+            },
+            {
+                "code": "guide-sense2",
+                "label": "A professional mountain climber in charge of a group."
+            },
+            {
+                "code": "guide-sense3",
+                "label": "A person who advises others, especially in matters of behaviour or belief."
+            },
+            {
+                "code": "guide-sense4",
+                "label": "A thing that helps someone to form an opinion or make a decision or calculation.."
+            },
+            {
+                "code": "guide-sense5",
+                "label": "A book, document, or display providing information on a subject or about a place."
+            },
+            {
+                "code": "guide-sense6",
+                "label": "A structure or marking which directs the motion or positioning of something."
+            },
+            {
+                "code": "guide-sense7",
+                "label": "(also Guide) A member of the Guide Association."
+            },
+            {
+                "code": "guide-sense8",
+                "label": "overige"
+            }
+        ],
+    
+        "customer": [
+            {
+                "code": "customer-sense1",
+                "label": "A person who buys goods or services from a shop or business."
+            },
+            {
+                "code": "customer-sense2",
+                "label": "(with adjective) A person of a specified kind with whom one has to deal."
+            },
+            {
+                "code": "customer-sense3",
+                "label": "overige"
+            }
+        ],
+        "client": [
+            {
+                "code": "client-sense1",
+                "label": "A person or organization using the services of a lawyer or other professional person or company."
+            },
+            {
+                "code": "client-sense2",
+                "label": "A person being dealt with by social or medical services."
+            },
+            {
+                "code": "client-sense3",
+                "label": "(in a network) a desktop computer or workstation that is capable of obtaining information and applications from a server."
+            },
+            {
+                "code": "client-sense4",
+                "label": "A program that is capable of obtaining a service provided by another program."
+            },
+            {
+                "code": "client-sense5",
+                "label": "(in ancient Rome) a plebeian under the protection of a patrician."
+            },
+            {
+                "code": "client-sense6",
+                "label": "(archaic) A dependant; a hanger-on."
+            },
+            {
+                "code": "client-sense7",
+                "label": "overige"
+            }
+        ],
+        "loudspeaker": [
+            {
+                "code": "loudspeaker-sense1",
+                "label": "An apparatus that converts electrical impulses into sound, typically as part of a public address system."
+            },
+            {
+                "code": "loudspeaker-sense2",
+                "label": "overige"
+            }
+        ],
+        "speaker":[
+            {
+                "code": "speaker-sense1",
+                "label": "A person who speaks."
+            },
+            {
+                "code": "speaker-sense2",
+                "label": "A person who delivers a speech or lecture."
+            },
+            {
+                "code": "speaker-sense3",
+                "label": "(usually with modifier or in combination) A person who speaks a specified language."
+            },
+            {
+                "code": "speaker-sense4",
+                "label": "(also Speaker) The presiding officer in a legislative assembly, especially the House of Commons."
+            },
+            {
+                "code": "speaker-sense5",
+                "label": "short for loudspeaker"
+            },
+            {
+                "code": "speaker-sense6",
+                "label": "overige"
+            }
+        ],
+        "malaise":[
+            {
+                "code": "malaise-sense1",
+                "label": "A general feeling of discomfort, illness, or unease whose exact cause is difficult to identify."
+            },
+            {
+                "code": "malaise-sense2",
+                "label": "overige"
+            }
+        ],
+        "unease":[
+            {
+                "code": "unease-sense1",
+                "label": "Anxiety or discontent."
+            },
+            {
+                "code": "unease-sense2",
+                "label": "overige"
+            }
+        ],
+        "organisation":[
+            {
+                "code": "organisation-sense1",
+                "label": "An organized group of people with a particular purpose, such as a business or government department."
+            },
+            {
+                "code": "organisation-sense2",
+                "label": "[mass noun] The action of organizing something."
+            },
+            {
+                "code": "organisation-sense3",
+                "label": "The way in which the elements of a whole are arranged."
+            },
+            {
+                "code": "organisation-sense4",
+                "label": "The quality of being systematic and efficient."
+            },
+            {
+                "code": "organisation-sense5",
+                "label": "overige"
+            }
+        ],
+        "organization":[
+            {
+                "code": "organization-sense1",
+                "label": "An organized group of people with a particular purpose, such as a business or government department."
+            },
+            {
+                "code": "organization-sense2",
+                "label": "[mass noun] The action of organizing something."
+            },
+            {
+                "code": "organization-sense3",
+                "label": "The way in which the elements of a whole are arranged."
+            },
+            {
+                "code": "organization-sense4",
+                "label": "The quality of being systematic and efficient."
+            },
+            {
+                "code": "organization-sense5",
+                "label": "overige"
+            }
+        ],
+        "spoof":[
+            {
+                "code": "spoof-sense1",
+                "label": "A humorous imitation of something, typically a film or a particular genre of film, in which its characteristic features are exaggerated for comic effect."
+            },
+            {
+                "code": "spoof-sense2",
+                "label": "A trick played on someone as a joke."
+            },
+            {
+                "code": "spoof-sense3",
+                "label": "overige"
+            }
+        ],
+        "parody":[
+            {
+                "code": "parody-sense1",
+                "label": "An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect."
+            },
+            {
+                "code": "parody-sense2",
+                "label": "An imitation or version of something that falls far short of the real thing; a travesty."
+            },
+            {
+                "code": "parody-sense3",
+                "label": "overige"
+            }
+        ],
+        "reorganisation":[
+            {
+                "code": "reorganisation-sense1",
+                "label": "The action or process of changing the way in which something is organized."
+            },
+            {
+                "code": "reorganisation-sense2",
+                "label": "overige"
+            }
+        ],
+        "reorganization":[
+            {
+                "code": "reorganization-sense1",
+                "label": "The action or process of changing the way in which something is organized."
+            },
+            {
+                "code": "reorganization-sense2",
+                "label": "overige"
+            }
+        ],
+        "writer":[
+            {
+                "code": "writer-sense1",
+                "label": "A person who has written something or who writes in a particular way."
+            },
+            {
+                "code": "writer-sense2",
+                "label": "A person who writes books, stories, or articles as a job or occupation."
+            },
+            {
+                "code": "writer-sense3",
+                "label": "(Computing) A device that writes data to a storage medium."
+            },
+            {
+                "code": "writer-sense4",
+                "label": "(historical) A scribe."
+            },
+            {
+                "code": "writer-sense5",
+                "label": "overige"
+            }
+        ],
+        "author":[
+            {
+                "code": "author-sense1",
+                "label": "A writer of a book, article, or document."
+            },
+            {
+                "code": "author-sense2",
+                "label": "Someone who writes books as a profession."
+            },
+            {
+                "code": "author-sense3",
+                "label": "The writings produced by a particular author."
+            },
+            {
+                "code": "author-sense4",
+                "label": "An originator of a plan or idea."
+            },
+            {
+                "code": "author-sense5",
+                "label": "overige"
+            }
+        ],
+        "skepticism":[
+            {
+                "code": "skepticism-sense1",
+                "label": "A skeptical attitude; doubt as to the truth of something."
+            },
+            {
+                "code": "skepticism-sense2",
+                "label": "(Philosophy) The theory that certain knowledge is impossible."
+            },
+            {
+                "code": "skepticism-sense3",
+                "label": "overige"
+            }
+        ],
+        "scepticism":[
+            {
+                "code": "scepticism-sense1",
+                "label": "A sceptical attitude; doubt as to the truth of something."
+            },
+            {
+                "code": "scepticism-sense2",
+                "label": "(Philosophy) The theory that certain knowledge is impossible."
+            },
+            {
+                "code": "scepticism-sense3",
+                "label": "overige"
+            }
+        ],
+        "sum":[
+            {
+                "code": "sum-sense1",
+                "label": "A particular amount of money."
+            },
+            {
+                "code": "sum-sense2",
+                "label": "(the sum of) The total amount resulting from the addition of two or more numbers, amounts, or items."
+            },
+            {
+                "code": "sum-sense3",
+                "label": "The total amount of something that exists."
+            },
+            {
+                "code": "sum-sense4",
+                "label": "An arithmetical problem, especially at an elementary level."
+            },
+            {
+                "code": "sum-sense5",
+                "label": "overige"
+            }
+        ],
+        "amount":[
+            {
+                "code": "amount-sense1",
+                "label": "A quantity of something, especially the total of a thing or things in number, size, value, or extent."
+            },
+            {
+                "code": "amount-sense2",
+                "label": "A sum of money."
+            },
+            {
+                "code": "amount-sense3",
+                "label": "overige"
+            }
+        ],
+        "telephone":[
+            {
+                "code": "telephone-sense1",
+                "label": "A system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals."
+            },
+            {
+                "code": "telephone-sense2",
+                "label": "[count noun] An instrument used as part of a telephone system, typically a single unit including a handset with a transmitting microphone and a set of numbered buttons by which a connection can be made to another such instrument."
+            },
+            {
+                "code": "telephone-sense3",
+                "label": "A game in which a sentence or phrase becomes distorted by being passed along to the next person in a whisper."
+            },
+            {
+                "code": "telephone-sense4",
+                "label": "overige"
+            }
+        ],
+        "phone":[
+            {
+                "code": "phone-sense1",
+                "label": "A telephone."
+            },
+            {
+                "code": "phone-sense2",
+                "label": "[informal] Headphones or earphones."
+            },
+            {
+                "code": "phone-sense3",
+                "label": "[Phonetics] A speech sound; the smallest discrete segment of sound in a stream of speech."
+            },
+            {
+                "code": "phone-sense4",
+                "label": "overige"
+            }
+        ],
+        "generalization":[
+            {
+                "code": "generalization-sense1",
+                "label": "A general statement or concept obtained by inference from specific cases."
+            },
+            {
+                "code": "generalization-sense2",
+                "label": "[mass noun] The action of generalizing."
+            },
+            {
+                "code": "generalization-sense3",
+                "label": "overige"
+            }
+        ],
+        "generalisation":[
+            {
+                "code": "generalisation-sense1",
+                "label": "A general statement or concept obtained by inference from specific cases."
+            },
+            {
+                "code": "generalisation-sense2",
+                "label": "[mass noun] The action of generalizing."
+            },
+            {
+                "code": "generalisation-sense3",
+                "label": "overige"
+            }
+        ],
+        "grief":[
+            {
+                "code": "grief-sense1",
+                "label": "Intense sorrow, especially caused by someone's death."
+            },
+            {
+                "code": "grief-sense2",
+                "label": "[count noun] An instance or cause of intense sorrow."
+            },
+            {
+                "code": "grief-sense3",
+                "label": "[informal] Trouble or annoyance."
+            },
+            {
+                "code": "grief-sense4",
+                "label": "overige"
+            }
+        ],
+        "sorrow":[
+            {
+                "code": "sorrow-sense1",
+                "label": "A feeling of deep distress caused by loss, disappointment, or other misfortune suffered by oneself or others"
+            },
+            {
+                "code": "sorrow-sense2",
+                "label": "[count noun] An event or circumstance that causes sorrow."
+            },
+            {
+                "code": "sorrow-sense3",
+                "label": "The outward expression of grief; lamentation."
+            },
+            {
+                "code": "sorrow-sense4",
+                "label": "overige"
+            }
+        ],
+        "licence":[
+            {
+                "code": "licence-sense1",
+                "label": "A permit from an authority to own or use something, do a particular thing, or carry on a trade (especially in alcoholic drink)"
+            },
+            {
+                "code": "licence-sense2",
+                "label": "[mass noun] Formal or official permission to do something."
+            },
+            {
+                "code": "licence-sense3",
+                "label": "[mass noun] Freedom to behave as one wishes, especially in a way which results in excessive or unacceptable behaviour."
+            },
+            {
+                "code": "licence-sense4",
+                "label": "A writer's or artist's freedom to deviate from fact, or from conventions such as grammar, for effect."
+            },
+            {
+                "code": "licence-sense5",
+                "label": "Licentiousness."
+            },
+            {
+                "code": "licence-sense6",
+                "label": "(a licence to do something) A reason or excuse to do something unacceptable."
+            },
+            {
+                "code": "licence-sense7",
+                "label": "overige"
+            }
+        ],
+        "license":[
+            {
+                "code": "license-sense1",
+                "label": "A permit from an authority to own or use something, do a particular thing, or carry on a trade (especially in alcoholic drink)"
+            },
+            {
+                "code": "license-sense2",
+                "label": "[mass noun] Formal or official permission to do something."
+            },
+            {
+                "code": "license-sense3",
+                "label": "[mass noun] Freedom to behave as one wishes, especially in a way which results in excessive or unacceptable behaviour."
+            },
+            {
+                "code": "license-sense4",
+                "label": "A writer's or artist's freedom to deviate from fact, or from conventions such as grammar, for effect."
+            },
+            {
+                "code": "license-sense5",
+                "label": "Licentiousness."
+            },
+            {
+                "code": "license-sense6",
+                "label": "(a licence to do something) A reason or excuse to do something unacceptable."
+            },
+            {
+                "code": "license-sense7",
+                "label": "overige"
+            }
+        ],
+        "story":[
+            {
+                "code": "story-sense1",
+                "label": "An account of imaginary or real people and events told for entertainment."
+            },
+            {
+                "code": "story-sense2",
+                "label": "A plot or storyline."
+            },
+            {
+                "code": "story-sense3",
+                "label": "A report of an item of news in a newspaper, magazine, or broadcast."
+            },
+            {
+                "code": "story-sense4",
+                "label": "A piece of gossip; a rumour."
+            },
+            {
+                "code": "story-sense5",
+                "label": "(informal) A false statement; a lie."
+            },
+            {
+                "code": "story-sense6",
+                "label": "An account of past events in someone's life or in the development of something."
+            },
+            {
+                "code": "story-sense7",
+                "label": "A particular person's representation of the facts of a matter."
+            },
+            {
+                "code": "story-sense8",
+                "label": "(in singular) A situation viewed in terms of the information known about it or its similarity to another."
+            },
+            {
+                "code": "story-sense9",
+                "label": "(the story) (informal) The facts about the present situation."
+            },
+            {
+                "code": "story-sense10",
+                "label": "The commercial prospects or circumstances of a particular company."
+            },
+            {
+                "code": "story-sense11",
+                "label": "overige"
+            }
+        ],
+        "tale":[
+            {
+                "code": "tale-sense1",
+                "label": "A fictitious or true narrative or story, especially one that is imaginatively recounted."
+            },
+            {
+                "code": "tale-sense2",
+                "label": "A lie."
+            },
+            {
+                "code": "tale-sense3",
+                "label": "(archaic) A number or total."
+            },
+            {
+                "code": "tale-sense4",
+                "label": "overige"
+            }
+        ],
+        "addict":[
+            {
+                "code": "addict-sense1",
+                "label": "A person who is addicted to a particular substance, typically an illegal drug."
+            },
+            {
+                "code": "addict-sense2",
+                "label": "[informal] [with modifier] An enthusiastic devotee of a specified thing or activity."
+            },
+            {
+                "code": "addict-sense3",
+                "label": "overige"
+            }
+        ],
+        "junkie":[
+            {
+                "code": "junkie-sense1",
+                "label": "[informal] A drug addict."
+            },
+            {
+                "code": "junkie-sense2",
+                "label": "[with modifier] A person with a compulsive habit or obsessive dependency on something"
+            },
+            {
+                "code": "junkie-sense3",
+                "label": "overige"
+            }
+        ],
+        "plane":[
+            {
+                "code": "plane-sense1",
+                "label": "A flat surface on which a straight line joining any two points on it would wholly lie."
+            },
+            {
+                "code": "plane-sense2",
+                "label": "An imaginary flat surface through or joining material objects."
+            },
+            {
+                "code": "plane-sense3",
+                "label": "A flat or level surface of a material object."
+            },
+            {
+                "code": "plane-sense4",
+                "label": "A flat surface producing lift by the action of air or water over and under it."
+            },
+            {
+                "code": "plane-sense5",
+                "label": "A level of existence, thought, or development."
+            },
+            {
+                "code": "plane-sense6",
+                "label": "An aeroplane."
+            },
+            {
+                "code": "plane-sense7",
+                "label": "A tool consisting of a block with a projecting steel blade, used to smooth a wooden or other surface by paring shavings from it."
+            },
+            {
+                "code": "plane-sense8",
+                "label": "A tall spreading tree of the northern hemisphere, with maple-like leaves and bark that peels in uneven patches."
+            },
+            {
+                "code": "plane-sense9",
+                "label": "overige"
+            }
+        ],
+        "airplane":[
+            {
+                "code": "airplane-sense1",
+                "label": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces; an aeroplane."
+            },
+            {
+                "code": "airplane-sense2",
+                "label": "overige"
+            }
+        ],
+        "site":[
+            {
+                "code": "site-sense1",
+                "label": "An area of ground on which a town, building, or monument is constructed."
+            },
+            {
+                "code": "site-sense2",
+                "label": "A place where a particular event or activity is occurring or has occurred."
+            },
+            {
+                "code": "site-sense3",
+                "label": "short for building site"
+            },
+            {
+                "code": "site-sense4",
+                "label": "short for campsite or caravan site"
+            },
+            {
+                "code": "site-sense5",
+                "label": "A website."
+            },
+            {
+                "code": "site-sense9",
+                "label": "overige"
+            }
+        ],
+        "website":[
+            {
+                "code": "website-sense1",
+                "label": "A set of related web pages located under a single domain name, typically produced by a single person or organization."
+            },
+            {
+                "code": "website-sense2",
+                "label": "overige"
+            }
+        ],
+        "world":[
+            {
+                "code": "world-sense1",
+                "label": "(usually the world) The earth, together with all of its countries and peoples."
+            },
+            {
+                "code": "world-sense2",
+                "label": "(the world) All of the people and societies on the earth."
+            },
+            {
+                "code": "world-sense3",
+                "label": "[as modifier] Denoting one of the most important people or things of their class."
+            },
+            {
+                "code": "world-sense4",
+                "label": "Another planet like the earth."
+            },
+            {
+                "code": "world-sense5",
+                "label": "A particular region or group of countries."
+            },
+            {
+                "code": "world-sense6",
+                "label": "A particular period of history."
+            },
+            {
+                "code": "world-sense7",
+                "label": "A particular group of living things."
+            },
+            {
+                "code": "world-sense8",
+                "label": "All that relates to a particular sphere of activity."
+            },
+            {
+                "code": "world-sense9",
+                "label": "(one's world) One's life and activities."
+            },
+            {
+                "code": "world-sense10",
+                "label": "(the world) Human and social interaction."
+            },
+            {
+                "code": "world-sense11",
+                "label": "Secular or material matters as opposed to spiritual ones."
+            },
+            {
+                "code": "world-sense12",
+                "label": "A stage of human life, either mortal or after death."
+            },
+            {
+                "code": "world-sense13",
+                "label": "overige"
+            }
+        ],
+        "globe":[
+            {
+                "code": "globe-sense1",
+                "label": "(the globe) The earth."
+            },
+            {
+                "code": "globe-sense2",
+                "label": "A spherical representation of the earth or of the constellations with a map on the surface."
+            },
+            {
+                "code": "globe-sense3",
+                "label": "A spherical or rounded object."
+            },
+            {
+                "code": "globe-sense4",
+                "label": "A glass sphere protecting a light."
+            },
+            {
+                "code": "globe-sense5",
+                "label": "A drinking glass shaped approximately like a sphere."
+            },
+            {
+                "code": "globe-sense6",
+                "label": "A golden orb as an emblem of sovereignty."
+            },
+            {
+                "code": "globe-sense7",
+                "label": "A lightbulb."
+            },
+            {
+                "code": "globe-sense8",
+                "label": "overige"
+            }
+        ],
+        "store":[
+            {
+                "code": "store-sense1",
+                "label": "A quantity or supply of something kept for use as needed."
+            },
+            {
+                "code": "store-sense2",
+                "label": "A place where things are kept for future use or sale."
+            },
+            {
+                "code": "store-sense3",
+                "label": "(stores) Supplies of equipment and food kept for use by members of an army, navy, or other institution, or the place where they are kept."
+            },
+            {
+                "code": "store-sense4",
+                "label": "A computer memory."
+            },
+            {
+                "code": "store-sense5",
+                "label": "A shop of any size or kind."
+            },
+            {
+                "code": "store-sense6",
+                "label": "A large shop selling different types of goods."
+            },
+            {
+                "code": "store-sense7",
+                "label": "A shop selling basic necessities."
+            },
+            {
+                "code": "store-sense8",
+                "label": "(Farming) A sheep, steer, cow, or pig acquired or kept for fattening."
+            },
+            {
+                "code": "store-sense9",
+                "label": "overige"
+            }
+        ],
+        "shop":[
+            {
+                "code": "shop-sense1",
+                "label": "A building or part of a building where goods or services are sold."
+            },
+            {
+                "code": "shop-sense2",
+                "label": "(informal) (in singular) An act of going shopping."
+            },
+            {
+                "code": "shop-sense3",
+                "label": "(usually with modifier) A place where things are manufactured or repaired; a workshop."
+            },
+            {
+                "code": "shop-sense4",
+                "label": "A room or department in a factory where a particular stage of production is carried out."
+            },
+            {
+                "code": "store-sense5",
+                "label": "(the shop) (informal) The place where one works."
+            },
+            {
+                "code": "store-sense6",
+                "label": "overige"
+            }
+        ],
+        "champion":[
+            {
+                "code": "champion-sense1",
+                "label": "A person who has surpassed all rivals in a sporting contest or other competition."
+            },
+            {
+                "code": "champion-sense2",
+                "label": "A person who vigorously supports or defends a person or cause."
+            },
+            {
+                "code": "champion-sense3",
+                "label": "(historical) A knight who fought in single combat on behalf of the monarch."
+            },
+            {
+                "code": "champion-sense4",
+                "label": "overige"
+            }
+        ],
+        "champ":[
+            {
+                "code": "champ-sense1",
+                "label": "[in singular] A biting or chewing action."
+            },
+            {
+                "code": "champ-sense2",
+                "label": "(informal) A champion."
+            },
+            {
+                "code": "champ-sense3",
+                "label": "An Irish dish of potatoes mashed with spring onions, butter, and milk."
+            },
+            {
+                "code": "champ-sense4",
+                "label": "overige"
+            }
+        ],
+        "singer":[
+            {
+                "code": "singer-sense1",
+                "label": "A person who sings, especially professionally."
+            },
+            {
+                "code": "singer-sense2",
+                "label": "overige"
+            }
+        ],
+        "vocalist":[
+            {
+                "code": "vocalist-sense1",
+                "label": "A singer, typically one who regularly performs with a jazz or pop group."
+            },
+            {
+                "code": "vocalist-sense2",
                 "label": "overige"
             }
         ]
